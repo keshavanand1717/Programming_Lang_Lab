@@ -1,4 +1,4 @@
-# Programming Languages Lab
+# Programming Languages Lab - Sem 6
 
 ## Overview
 This repository contains the implementation and exploration of various programming languages concepts as part of the Programming Languages Lab. The lab work covers synchronization constructs and threading in Java, understanding and implementing Prolog and Haskell, and delving into the principles of programming languages including lambda calculus and functional programming languages.
